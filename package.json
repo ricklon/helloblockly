@@ -1,0 +1,25 @@
+{
+  "name": "helloblockly",
+  "version": "1.0.0",
+  "description": "HelloWorld Create-Blockly Test",
+  "main": "app.js",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/ricklon/helloblockly"
+   },
+  "dependencies": {
+    "create-blockly": "0.0.2",
+    "express": "^4.13.3",
+    "morgan": "^1.6.1"
+  },
+  "devDependencies": {
+    "browserify": "^12.0.1",
+    "gulp": "^3.9.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rick Anderson",
+  "license": "Apache-2.0"
+}
