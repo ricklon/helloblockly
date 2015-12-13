@@ -1,7 +1,6 @@
 var gulp = require('gulp');
 // requires browserify and vinyl-source-stream
 var browserify = require('browserify');
-var source = require('vinyl-source-stream');
 
 
 gulp.task('default', function() {
